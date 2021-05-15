@@ -1,5 +1,11 @@
 # electron-quick-start
 
+설명사이트
+https://jeongsu.tistory.com/207?category=673308
+
+https://jeongsu.tistory.com/208
+
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
